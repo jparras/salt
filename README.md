@@ -1,2 +1,3 @@
-# salt
-Codes for Random Signal classes (Spanish)
+# Códigos SALT
+
+Códigos de los ejemplos usados en clase.
