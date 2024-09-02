@@ -21,4 +21,4 @@ Códigos de los ejemplos usados en clase, distribuidos como sigue:
 * Tema 2: [Generar números aleatorios](https://www.youtube.com/watch?v=RzEjqJHW-NU)
 * Tema 2: [La distribución normal](https://youtu.be/zZIj3w037P8?si=XrEiKwxLghVS_igY)
 * Tema 2: [Media, moda y mediana](https://www.youtube.com/watch?v=QditfY6P8uc)
-* Tema 2: [Esperanza matemática](https://www.youtube.com/watch?v=QditfY6P8uc)
+* Tema 2: [Esperanza matemática](https://www.youtube.com/watch?v=aEP4xZtANeU)
