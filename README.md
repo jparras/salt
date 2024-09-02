@@ -18,6 +18,7 @@ Códigos de los ejemplos usados en clase, distribuidos como sigue:
 ### Vídeos adicionales
 * Tema 1: [Teorema de Bayes](https://www.youtube.com/watch?v=xfz7Gfbd2Bg)
 * Tema 1: [Infinito numerable y no numerable](https://www.youtube.com/watch?v=TUFQKN5mIWM)
+* Tema 1: [Cálculo de probabilidades](https://www.youtube.com/watch?v=dpVO9MJ4feQ)
 * Tema 2: [Generar números aleatorios](https://www.youtube.com/watch?v=RzEjqJHW-NU)
 * Tema 2: [La distribución normal](https://youtu.be/zZIj3w037P8?si=XrEiKwxLghVS_igY)
 * Tema 2: [Media, moda y mediana](https://www.youtube.com/watch?v=QditfY6P8uc)
